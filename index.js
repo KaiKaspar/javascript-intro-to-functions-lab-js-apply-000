@@ -23,4 +23,4 @@ lowercase.toLowerCase() === lowercase // true
 return "I can't hear you!"
 }
 
-if 
+if sayHiToGrandma = "hello"
